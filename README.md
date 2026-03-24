@@ -1,4 +1,4 @@
-## Josh Lowery
+# Josh Lowery
 MSc Biomechanics Student, McGill University
  
 `[biomechanics / multi-segment foot modelling / wearable sensing]`
